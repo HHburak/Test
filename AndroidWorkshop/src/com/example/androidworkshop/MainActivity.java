@@ -3,7 +3,7 @@ package com.example.androidworkshop;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
-
+//Burak
 public class MainActivity extends Activity {
 
 	@Override
@@ -20,3 +20,4 @@ public class MainActivity extends Activity {
 	}
 
 }
+
