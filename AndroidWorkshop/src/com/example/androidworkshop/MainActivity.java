@@ -3,7 +3,7 @@ package com.example.androidworkshop;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
-//Burak Oe
+//B
 public class MainActivity extends Activity {
 
 	@Override
