@@ -3,7 +3,7 @@ package com.example.androidworkshop;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
-//Hallo
+//Hallo test fuer pull
 public class MainActivity extends Activity {
 
 	@Override
